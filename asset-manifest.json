@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/village-connect/static/css/main.7fc4e6c0.css",
+    "main.js": "/village-connect/static/js/main.7d870be8.js",
+    "index.html": "/village-connect/index.html",
+    "main.7fc4e6c0.css.map": "/village-connect/static/css/main.7fc4e6c0.css.map",
+    "main.7d870be8.js.map": "/village-connect/static/js/main.7d870be8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fc4e6c0.css",
+    "static/js/main.7d870be8.js"
+  ]
+}
