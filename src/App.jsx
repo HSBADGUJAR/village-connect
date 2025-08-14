@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import React from "react";
 import ChatIcon from "./components/ChatIcon.jsx";
 import Navbar from "./components/Navbar";
